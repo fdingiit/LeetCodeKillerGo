@@ -20,3 +20,6 @@
 
 ### 链表
 [二合一](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/21)
+
+[单链表消重](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/83)
+
