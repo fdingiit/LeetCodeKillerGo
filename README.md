@@ -17,3 +17,6 @@
 
 ### 位操作
 [单调递增数字](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/738)
+
+### 链表
+[二合一](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/21)
