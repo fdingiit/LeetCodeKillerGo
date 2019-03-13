@@ -42,3 +42,5 @@
 [单链表消重(2)](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/82)
 
 [根据给定数值分割链表](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/86)
+
+[链表部分翻转](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/92)
