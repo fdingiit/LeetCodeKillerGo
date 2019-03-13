@@ -36,3 +36,5 @@
 [找链表中点](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/876)
 
 [从后往前删节点](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/19)
+
+[相邻节点调位](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/24)
