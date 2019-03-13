@@ -34,3 +34,5 @@
 [回文链表](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/234)
 
 [找链表中点](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/876)
+
+[从后往前删节点](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/19)
