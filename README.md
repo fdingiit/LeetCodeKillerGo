@@ -38,3 +38,5 @@
 [从后往前删节点](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/19)
 
 [相邻节点调位](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/24)
+
+[单链表消重(2)](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/82)
