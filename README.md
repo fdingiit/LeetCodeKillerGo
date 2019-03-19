@@ -5,6 +5,9 @@
 
 [中序+后续遍历构建树](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/106)
 
+[两树合并](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/617)
+
+
 ### 图
 [判断图中是否存在环/拓扑排序](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/207)
 
