@@ -11,6 +11,7 @@
 
 [二叉树翻转](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/226)
 
+[根据数组构建二叉树](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/654)
 
 ### 图
 [判断图中是否存在环/拓扑排序](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/207)
