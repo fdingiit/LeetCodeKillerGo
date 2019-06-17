@@ -15,6 +15,8 @@
 
 [二叉查找树查找数](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/700)
 
+[二叉查找树插入数](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/701)
+
 
 ### 图
 [判断图中是否存在环/拓扑排序](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/207)
