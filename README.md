@@ -13,6 +13,9 @@
 
 [根据数组构建二叉树](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/654)
 
+[二叉查找树查找数](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/700)
+
+
 ### 图
 [判断图中是否存在环/拓扑排序](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/207)
 
