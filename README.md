@@ -29,6 +29,8 @@
 
 [二叉树最大层数](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/104)
 
+[判断二分查找树合法性](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/98)
+
 
 ### 图
 [判断图中是否存在环/拓扑排序](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/207)
