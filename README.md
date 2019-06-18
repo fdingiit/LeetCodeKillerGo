@@ -25,6 +25,7 @@
 
 [二叉树层序遍历](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/102)
 
+[二叉树最小层数](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/111)
 
 ### 图
 [判断图中是否存在环/拓扑排序](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/207)
