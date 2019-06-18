@@ -19,6 +19,8 @@
 
 [二叉树每层最大数](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/515)
 
+[二叉树第K小的数](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/230)
+
 
 ### 图
 [判断图中是否存在环/拓扑排序](https://github.com/fdingiit/LeetCodeKillerGo/tree/master/207)
